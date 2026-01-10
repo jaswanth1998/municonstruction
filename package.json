@@ -3,7 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/muni-construction",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
