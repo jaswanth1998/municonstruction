@@ -1,0 +1,6 @@
+export { default as HeroSection } from './HeroSection'
+export { default as WhatWeDoSection } from './WhatWeDoSection'
+export { default as WhyChooseUs } from './WhyChooseUs'
+export { default as ServicesPreview } from './ServicesPreview'
+export { default as Testimonials } from './Testimonials'
+export { default as CTABanner } from './CTABanner'
