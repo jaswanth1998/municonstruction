@@ -146,7 +146,7 @@ const ContactInfo = () => {
       </motion.div>
 
       {/* Emergency Services */}
-      <motion.div
+      {/* <motion.div
         variants={itemVariants}
         className="
           p-6
@@ -173,7 +173,7 @@ const ContactInfo = () => {
             </a>
           </div>
         </div>
-      </motion.div>
+      </motion.div> */}
 
       {/* Social Media */}
       <motion.div variants={itemVariants}>

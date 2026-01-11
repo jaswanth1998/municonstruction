@@ -46,6 +46,11 @@ const CTABanner = () => {
             <Button
               to="/contact"
               size="lg"
+              style={
+                {
+                  color: "black"
+                }
+              }
               className="bg-white text-primary-600 hover:bg-gray-100 hover:text-primary-700 shadow-xl"
               icon={<ArrowRight className="w-5 h-5" />}
               iconPosition="right"
@@ -54,6 +59,7 @@ const CTABanner = () => {
             </Button>
             <a
               href={`tel:${companyInfo.phone.replace(/[^0-9]/g, '')}`}
+              
               className="inline-flex items-center gap-3 px-6 py-4 rounded-lg border-2 border-white/30 text-white font-semibold hover:bg-white/10 hover:border-white/50 transition-all duration-300"
             >
               <div className="p-2 bg-white/20 rounded-full">

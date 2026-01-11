@@ -157,5 +157,5 @@ This project is proprietary. All rights reserved by Muni Construction.
 ## Contact
 
 For questions about this project, contact:
-- Email: info@municonstruction.ca
+- Email: info@municonstruction.com
 - Phone: (902) 555-0123

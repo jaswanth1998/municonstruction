@@ -159,13 +159,13 @@ export const companyInfo = {
   name: 'Muni Construction',
   tagline: "Your Trusted Halifax Contractor Since 2025",
   phone: '(902) 555-0123',
-  email: 'info@municonstruction.ca',
+  email: 'info@municonstruction.com',
   address: {
-    street: '123 Construction Lane',
+    street: '2825, Main street west',
     city: 'Halifax',
     province: 'NS',
     postalCode: 'B3H 2Y9',
-    full: '123 Construction Lane, Halifax, NS B3H 2Y9',
+    full: '2825, Main street west, Shubenacadie, NS B0N 2H0',
   },
   hours: {
     weekdays: '8:00 AM - 5:00 PM',

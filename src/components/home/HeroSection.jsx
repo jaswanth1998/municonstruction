@@ -83,7 +83,7 @@ const HeroSection = () => {
             variants={itemVariants}
             className="text-xl md:text-2xl lg:text-3xl text-white/90 font-light mb-8 tracking-wide"
           >
-            Your Trusted Halifax Contractor Since 2025
+            Your Trusted Halifax Contractor Since 2021
           </motion.p>
 
           {/* Description */}
@@ -119,7 +119,7 @@ const HeroSection = () => {
           </motion.div>
 
           {/* Trust Indicators */}
-          <motion.div
+          {/* <motion.div
             variants={itemVariants}
             className="mt-16 pt-8 border-t border-white/10"
           >
@@ -144,7 +144,7 @@ const HeroSection = () => {
                 </motion.div>
               ))}
             </div>
-          </motion.div>
+          </motion.div> */}
         </motion.div>
       </div>
 
