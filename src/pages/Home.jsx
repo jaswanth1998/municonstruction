@@ -5,7 +5,6 @@ import {
   WhyChooseUs,
   Testimonials,
   CTABanner,
-  Gallery,
 } from '../components/home'
 
 const Home = () => {
@@ -27,7 +26,6 @@ const Home = () => {
         <HeroSection />
         <WhatWeDoSection />
         <WhyChooseUs />
-        <Gallery />
         <Testimonials />
         <CTABanner />
       </main>

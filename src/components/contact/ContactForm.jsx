@@ -214,7 +214,7 @@ const ContactForm = () => {
                 focus:ring-2 focus:ring-primary-500 focus:border-transparent
                 transition-all
               "
-              placeholder="(902) 555-0123"
+              placeholder="(902) 500-9846"
             />
           </div>
           <div>

@@ -158,7 +158,7 @@ export const theme = {
 export const companyInfo = {
   name: 'Muni Construction',
   tagline: "Your Trusted Halifax Contractor Since 2025",
-  phone: '(902) 555-0123',
+  phone: '(902) 500-9846',
   email: 'info@municonstruction.com',
   address: {
     street: '2825, Main street west',
